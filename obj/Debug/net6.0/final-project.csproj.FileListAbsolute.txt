@@ -29,3 +29,9 @@ C:\Users\Adir\Desktop\Study\HackerU-dotNET-Course\final-project\final-project\ob
 C:\Users\Adir\Desktop\Study\HackerU-dotNET-Course\final-project\final-project\obj\Debug\net6.0\final-project.pdb
 C:\Users\Adir\Desktop\Study\HackerU-dotNET-Course\final-project\final-project\obj\Debug\net6.0\final-project.genruntimeconfig.cache
 C:\Users\Adir\Desktop\Study\HackerU-dotNET-Course\final-project\final-project\obj\Debug\net6.0\ref\final-project.dll
+C:\Users\Adir\Desktop\Study\HackerU-dotNET-Course\final-project\final-project\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Adir\Desktop\Study\HackerU-dotNET-Course\final-project\final-project\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Adir\Desktop\Study\HackerU-dotNET-Course\final-project\final-project\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Adir\Desktop\Study\HackerU-dotNET-Course\final-project\final-project\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Adir\Desktop\Study\HackerU-dotNET-Course\final-project\final-project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adir\Desktop\Study\HackerU-dotNET-Course\final-project\final-project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
